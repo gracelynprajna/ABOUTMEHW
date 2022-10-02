@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: papayawhip;
+}
+
+header { 
+    color:rgb(11, 96, 125);
+    margin-top: 15px;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: orange;
+}
+
+h1,h2 {
+    text-align: center;
+    flex: 5;
+}
+
+nav{
+    height:50px;
+    display: flex;
+    flex: 100%;
+}
+
+nav ul{
+    padding: 0;
+    display:flex;
+    list-style-type:none;
+    flex:2;
+}
+
+nav li{
+    display:inline;
+    text-align: center;
+    flex: 1 1 0%;
+
+}
