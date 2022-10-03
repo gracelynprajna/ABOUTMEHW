@@ -3,7 +3,8 @@ main{
 }
 
 aside{
-    display:block
+
+    display:flex;
     flex: 1;
     margin-left: 10px;
     margin-right: 20px;
@@ -11,6 +12,13 @@ aside{
     border-style: solid;
     border-color: #E9EDC9;
     border-radius: 10px;
+    flex-direction: column;
+}
+
+#mybuttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #aboutme{
