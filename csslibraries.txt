@@ -1,0 +1,22 @@
+    CSS libraries such as bootstrap, Material UI, Tailwind, or Bulma are CSS libraries that make life easier for 
+web developers. All of these give a framework for css so people can create and design websites in a shorter amount
+of time since the outline is already given to them. So instead of creating and designing a website from the 
+ground up, people can use these CSS libraries to start instead. When using these CSS libraries, it can come with 
+an HTML, CSS, and JS folders. Developers like using CSS libraries because there are so many to choose from,
+and they can also be similar in design so the website design can look more put together. For example, on Bootstrap,
+developers can choose from a range of layouts, themes, buttons, drop down menus, etc. The only thing developers 
+would need to do if using bootstrap is add their html with the css file and edit some stuff so that it can work 
+together and they already have a basically done website. 
+    Another way CSS libraries can be used is to cut down on excessive CSS coding. With these libraries, it can 
+help you create websites and cut down on too many classes or ids. There are also usually many updates and 
+a huge community of people using these so you can ask for help within the community if you need help with 
+troubleshooting. In addition, these CSS libraries can also have the layouts that will also be able to adjust itself
+to whatever device you are viewing the site on. For example, it can convert itself to a mobile page, desktop page,
+tablet page, etc. This can cut a lot of time out of coding. To use these frameworks, simply use the CSS, HTML, or JS 
+file that they provide you with and edit it accordingly. With this, you can create better website in less time!
+
+
+SOURCES CITED
+https://www.quickstart.com/blog/what-is-bootstrap-and-how-does-it-work/
+https://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how
+https://www.browserstack.com/guide/top-css-frameworks#:~:text=CSS%20frameworks%20make%20it%20simple,and%20more%20convenient%20web%20development.
