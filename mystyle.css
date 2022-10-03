@@ -1,14 +1,39 @@
+main{
+    display: flex;
+}
+
+aside{
+    display:block
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding: 15px;
+    border-style: solid;
+    border-color: #E9EDC9;
+    border-radius: 10px;
+}
+
+#aboutme{
+    display:block;
+    border-style: solid;
+    border-color: #E9EDC9;
+    border-radius: 10px;
+    width: 65%;
+    padding: 15px;
+    margin: 10px;
+}
+
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: papayawhip;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fefae0;
 }
 
 header { 
-    color:rgb(11, 96, 125);
+    color:#d4a373;
     margin-top: 15px;
     display: flex;
     flex-flow: row wrap;
-    background-color: orange;
+    background-color: #e9edc9;
 }
 
 h1,h2 {
@@ -27,11 +52,18 @@ nav ul{
     display:flex;
     list-style-type:none;
     flex:2;
+
 }
 
 nav li{
     display:inline;
     text-align: center;
     flex: 1 1 0%;
-
 }
+
+nav a{
+    border-style: solid;
+    border-color: #E9EDC9;
+    border-radius: 10px;
+    padding: 10px;
+    }
